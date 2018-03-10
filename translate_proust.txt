@@ -1,4 +1,6 @@
+===================================================
 Translation Exercise of Proust: Francais->English
+===================================================
 
 -- rooms of summer where one loves to be united with the tepid night, where the
 moonlight leaned to the half-open blinds, throws at the foot of the bed its
@@ -6,9 +8,19 @@ enchanted ladder, where one sleeps almost in open air, like a tit [i.e.
 chickadee] rocked by a breeze at the tip of a ray of light;
 
 
-====================  p.53 =================
-Combray from afar, about ten leagues in circumference, viewed from the train
-when we arrived there the week before Easter, it was only a church epitomizing
+================  p.53  Francais ====================
+Combray de loin, à dix lieues à la ronde, vu du chemin de fer quand nous y
+arrivions la dernière semaine avant Pâques, ce n’était qu’une église résumant la
+ville, la représentant, parlant d’elle et pour elle aux lointains, et, quand on
+approchait, tenant serrés autour de sa haute mante sombre, en plein champ,
+contre le vent, comme une pastoure ses brebis, les dos laineux et gris des
+maisons rassemblées qu’un reste de remparts du moyen âge cernait çà et là d’un
+trait aussi parfaitement circulaire qu’une petite ville dans un tableau de
+primitif. 
+================  p.53  Francais ====================
+
+Combray from afar, at ten leagues in circumference, viewed from the railway
+when we arrived there the last week before Easter, it was only a church epitomizing
 the town, representing it, speaking from it and for it at a distance, and, when
 one approached, holding pinched around its high somber mantle, in the open field, 
 against the wind, like a shepherdress her sheeps, the woollen and gray backs
@@ -16,12 +28,36 @@ of gathered houses which a remnant of the ramparts of the Middle Ages
 encircled here and there with a line as perfectly circular as a small town in a
 primitive painting.
 
+================  p.53  Francais ====================
+A l’habiter, Combray était un peu triste, comme ses rues dont les
+maisons construites en pierres noirâtres du pays, précédées de degrés
+extérieurs, coiffées de pignons qui rabattaient l’ombre devant elles, étaient
+assez obscures pour qu’il fallût dès que le jour commençait à tomber relever les
+rideaux dans les «salles»; des rues aux graves noms de saints (desquels
+plusieurs se rattachaient à l'histoire des premiers seigneurs de Combray): 
+rue Saint-Hilaire, rue Saint-Jacques où était
+la maison de ma tante, rue Sainte-Hildegarde, où donnait la grille, et rue du
+Saint-Esprit sur laquelle s’ouvrait la petite porte latérale de son jardin; et
+ces rues de Combray existent dans une partie de ma mémoire si reculée, peinte de
+couleurs si différentes de celles qui maintenant revêtent pour moi le monde,
+qu’en vérité elles me paraissent toutes, et l’église qui les dominait sur la
+Place, plus irréelles encore que les projections de la lanterne magique; et qu’à
+certains moments, il me semble que pouvoir encore traverser la rue
+Saint-Hilaire, pouvoir louer une chambre rue de l’Oiseau --- à la vieille
+hôtellerie de l’Oiseau Flesché, des soupiraux de laquelle montait une odeur de
+cuisine que s’élève encore par moments en moi aussi intermittente et aussi
+chaude --- serait une entrée en contact avec l’Au-delà plus merveilleusement
+surnaturelle que de faire la connaissance de Golo et de causer avec Geneviève de
+Brabant.
+================  p.53  Francais ====================
+
 To live in, Combray was a little gloomy, as its streets on which the houses
 constructed in blackish stones of the country, preceeded by exterior steps, 
 covered by gables which pulled down the shades in front of them,
 were so dark that one needs as soon as the day started to set to raise the 
-blinds of the "rooms"; streets in grave names of the saints (of many masters of
-Combray): rue Saint-Hilaire, rue Saint-Jaques on which was my aunt's house, rue
+blinds of the "rooms"; streets in grave names of the saints (to whom many
+were associated with the story of the first masters of Combray): 
+rue Saint-Hilaire, rue Saint-Jaques on which was my aunt's house, rue
 Sainte-Hildegarde, on which gave way the grill gate, and rue du Saint-Esprit on
 which opened the little lateral garden gate; and these streets of Combray
 existed in a part of my memory so reclused, painted by the colors so different
