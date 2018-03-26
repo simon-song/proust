@@ -70,3 +70,54 @@ of which came up an odour of cuisine that still rises every now and then in me
 as intermittent and as warm -- would be an entrance in contact with the beyond
 more marvellously supernatural than to make the acquaintance of Golo and to
 talk with Genevieve de Brabant.
+
+====================  pp.53-54  Francais ===========================
+La cousine de mon grand-père — ma grand’tante — chez qui
+nous habitions, était la mère de cette tante Lèonie qui, depuis la
+mort de son mari, mon oncle Octave, n’avait plus voulu quiter,
+d’abord Combray, puis à Combray sa maison, puis sa chambre, puis
+son lit et ne «descendait» plus, toujours couchée dans un état 
+incertain de chagrin, de débilité physique, de maladie, d’idée fixe et
+de dévotion. Son appartement particulier donnait sur la rue Saint-
+Jacques qui aboutissait beaucoup plus loin au Grand-Pré (par opposition 
+au Petit-Pré, verdoyant au milieu de la ville, entre trois
+rues), et qui, unie, grisâtre, avec les trois hautes marches de grès
+presque devant chaque porte, semblait comme un défilé pratiqué par
+un tailleur d’images gothiques à même la pierre où il eût sculpté une
+crèche ou un calvaire.
+====================  pp.53-54  Francais ===========================
+
+First draft:
+The cousin of my grandfather -- my great-aunt -- in whose house we stay, 
+was the mother of that aunt Leonie who, after the death of her husband, 
+my uncle Octave, no longer was willing to leave, first Combray, then
+in Combray her house, then her bedroom, then her bed and no longer 
+"came down", always lay in an uncertain state of pain, of physical debility,
+of illness, of fixed idea and devotion. Her own apartment faced
+rue Saint-Jacques which led to very far to Grand-Pre (in opposition to
+Petit-Pre, verdant in the middle of the town, between three streets), and
+which, smooth, grayish, with three high steps of sandstone almost in front
+of every door, seemed like a defile made by a stone mason of gothic images
+from the same stone which he had carved a nativity or a Calvary.
+
+L.91 stay -> stayed, lived
+L.95 lay -> lain, since lie (lay, lain), lay (laid, laid), lie (lied, lied)
+     probably should use pres.part. lying instead of p.p. lain.
+L.95 pain -> grief
+L.96 fixed idea -> obsession
+     idee fixe is actually used in English per se.
+L.97 led to -> ended ... in Grand-Pre
+
+2nd draft:
+The cousin of my grandfather -- my great aunt -- in whose house we 
+lived, was the mother of that Aunt Leonie who, since the death of 
+her husband, my uncle Octave, no longer wished to leave, first Combrary,
+then within Combray her house, then her bedroom, then her bed and no 
+longer "came down", always lying in an uncertain state of grief, of 
+physical debility, of illness, of obsession and of devotion. Her own
+apartment looked out to rue Saint-Jacque which ended much far away in 
+the Grand-Pre (as opposed to the Petit-Pre, verdant in the middle of 
+the town, where three streets meet), and which, smooth, grayish, with 
+three high steps of sandstone in front of almost every door, seemed
+like a defile hewn by a cutter of Gothis images from the same stone 
+out of which he would have sculpted a nativity or a Calvary.
