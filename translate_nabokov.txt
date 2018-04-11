@@ -77,7 +77,7 @@ de lumineux blocs de perception, offrant à la mémoire une
 prise glissante. J'avais appris à compter et à parler plus ou
 moins simultanément à un âge très précoce, mais la prise
 de conscience que j'étais moi et que mes parents étaient
-mes parents semble ne s'être effectuée que plus ^tard, avec
+mes parents semble ne s'être effectuée que plus tard, avec
 la découverte de leur âge par rapport au mien. À en juger
 par le plein jour éclatant qui, lorsque je songe à cette 
 révélation, envahit immédiatement ma mémoire de ces taches
@@ -168,7 +168,7 @@ doit être limitée.
 Afin d'aimer la vie, il nous faut ne pas trop l'aimer.
 =========    Autres Rivages (Francais), chap. 1  ================
 
-My translation:
+My translation (back to English):
 This kind of fantasy is not foreign to young lives.
 
 Or, to put otherwise, the things of birth and death often take
@@ -207,7 +207,7 @@ secrète pour découvrir au bout du compte que la prison du
 temps est sphérique et dépourvue de sorties. 
 =========    Autres Rivages (Francais), chap. 1  ================
 
-My translation:
+My translation (back to English):
 I rebel against this state of affairs. 
 
 I feel the urge to take my revolt outside and to picket nature.
@@ -251,7 +251,7 @@ ces petits embryons bilieux espionnant, de leurs recoins
 naturels, la vie amoureuse de leurs parents.
 =========    Autres Rivages (Francais), chap. 1  ================
 
-My translation:
+My translation (back to English):
 Except suicide, I have tried everything.
 
 I have stripped my identity in order to pass as a conventional
@@ -268,3 +268,38 @@ common, fundamentally medieval world of Freud, with its crazy search for
 sexual symbols (something like searching for Baconian acrostics in 
 Shakespeare's works) and the little embryons spying, from their natural
 nooks, the love life of their parents.
+
+
+=========    Autres Rivages (Francais), chap. 1  ================
+Au début, je ne me doutais pas que le temps, qui paraît de
+prime abord si illimité, était une prison. 
+
+En explorant mon enfance (ce que l'on a de mieux à faire, à défaut de pouvoir
+explorer son éternité), je vois l'éveil de la conscience sous
+l'aspect d'une série d'éclairs espacés, avec des intervalles
+entre eux diminuant peu à peu jusqu'à ce que se forment
+de lumineux blocs de perception, offrant à la mémoire une
+prise glissante. 
+
+J'avais appris à compter et à parler plus ou
+moins simultanément à un âge très précoce, mais la prise
+de conscience que j'étais moi et que mes parents étaient
+mes parents semble ne s'être effectuée que plus tard, avec
+la découverte de leur âge par rapport au mien. 
+=========    Autres Rivages (Francais), chap. 1  ================
+
+>>>>>>    My translation (back to English):  <<<<<<
+At first, I did not doubt that time, which at first sight seems so
+unlimited, was a prison. 
+
+In probing my childhood (which is next best thing only to probing one's eternity)
+// one has better to make, for lacking the power of exploring one's eternity[?]), 
+I see the awakening of my consciousness through the appearance of a succession of
+flashing areas[?], with intervals between them gradually diminishing
+till they form the luminating blocks of perception, offering my memory
+a slippery hold[?]. 
+
+I had learned to count and to speak more or less simultaneously at a
+very early age, but the awareness that I was myself and that my parents
+were my parents seem to only take effect much later, with my discovering
+their age in relation to mine.
