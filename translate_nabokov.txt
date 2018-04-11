@@ -288,7 +288,7 @@ mes parents semble ne s'être effectuée que plus tard, avec
 la découverte de leur âge par rapport au mien. 
 =========    Autres Rivages (Francais), chap. 1  ================
 
->>>>>>    My translation (back to English):  <<<<<<
+>>>>>>>>>>>>>>>>>>  My translation (back to English):  <<<<<<<<<<<<
 At first, I did not doubt that time, which at first sight seems so
 unlimited, was a prison. 
 
@@ -303,3 +303,34 @@ I had learned to count and to speak more or less simultaneously at a
 very early age, but the awareness that I was myself and that my parents
 were my parents seem to only take effect much later, with my discovering
 their age in relation to mine.
+
+
+=========    Autres Rivages (Francais), chap. 1  ================
+À en juger par le plein jour éclatant qui, lorsque je songe à cette 
+révélation, envahit immédiatement ma mémoire de ces taches
+de lumière lobées miroitant derrière un entrelacs de motifs
+de verdure, le déclencheur semble avoir été l'anniversaire
+de ma mère, au cœur de l'été, à la campagne, et le fait d'avoir
+posé des questions et d'avoir procédé à l'estimation des
+réponses qu'on me fit. 
+
+Tout cela est conforme à la théorie de
+l'évolution récapitulative ; le commencement de la 
+connaissance réfléchie, dans le cerveau de notre plus lointain
+ancêtre, doit sûrement avoir coïncidé avec l'avènement du
+sens du temps.
+=========    Autres Rivages (Francais), chap. 1  ================
+
+>>>>>>>>>>>>>>>>>>  My translation (back to English):  <<<<<<<<<<<<
+To judge by the full bright daylight which, as soon as I dream of this
+revelation, immediately invaded my memory with these spots of lobed
+light sparkling behind an interlacing of green motifs, the trigger
+seems to have been the birthday of my mother, in the middle of a
+summer, in the countryside, and the event of having posed some
+questions and proceeded [?] the estimation from the responses
+they gave me.
+
+All this conforms to the theory of the recapitulative evolution; the 
+beginning of the reflective knowledge, in our brain of our most remote 
+ancestor, must surely have coincided with the advent of the sense of
+time.
